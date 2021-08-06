@@ -1,4 +1,4 @@
-# Task Develop Hellium wallet
+#Hellium wallet
 This App help people to manage their Hellium wallet by; 
 generating Keypair, 
 Create wallet address
@@ -12,6 +12,7 @@ Checking User Balance.
 
 * Frontend side Framework : **React.js, Material UI **
 * Linting Library: **ESLint**
+* web3.js
 
 
 ### Additional Tools
@@ -25,19 +26,18 @@ Checking User Balance.
 * Install [Node js](https://nodejs.org/en/)
 * Clone Repo [Hellium wallet](https://github.com/Angelus123/hellium-wallet)
 
-```
+
 $ To move into folder
 ```
 $ cd hellium-wallet
 ```
 Install dependincies as they appear in package.json file by
-## And rember set .env variable 
+## And rember to set .env variables 
 
 ```
 $ npm install
 ```
 To start the server do
-
 ```
 $ npm run start
 ```
