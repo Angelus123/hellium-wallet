@@ -1,4 +1,4 @@
-# Task Develop Hellium wallet
+#  Hellium wallet
 This App help people to manage their Hellium wallet by; 
 generating Keypair, 
 Create wallet address
@@ -25,8 +25,7 @@ Checking User Balance.
 * Install [Node js](https://nodejs.org/en/)
 * Clone Repo [Hellium wallet](https://github.com/Angelus123/hellium-wallet)
 
-```
-$ To move into folder
+ To move into folder
 ```
 $ cd hellium-wallet
 ```
