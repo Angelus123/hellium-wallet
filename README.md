@@ -1,4 +1,4 @@
-#Hellium wallet
+# Hellium wallet
 This App help people to manage their Hellium wallet by; 
 generating Keypair, 
 Create wallet address
@@ -6,7 +6,7 @@ Sending Transactions
 Receiving Transactions
 Checking User Balance. 
 
-
+![Home page](https://github.com/Angelus123/TodoApp/blob/Developer/src/Asset/Screenshot_task.png)
 
 ### Technology tools used in this Project
 
