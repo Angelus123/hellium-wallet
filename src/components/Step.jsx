@@ -28,7 +28,7 @@ const Step = ({ stepIndex, prev, next }) => {
           <Alert
             message={
               <Space>
-                <Text strong>My Solana APP</Text>
+                <Text strong>My Helium Wallet</Text>
                 <Space align="center" size="small">
                   
                   <ArrowUpRight color="#1890ff" size={18} style={{ marginTop: "6px" }} />

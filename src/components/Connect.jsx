@@ -37,13 +37,13 @@ const Connect = () => {
         ? <Alert
         message={
           <Space>
-            Connected to Solana
+            Connected to Helium
             <Text code>v{version["solana-core"]}</Text>
           </Space>
         }
         type="success"
         showIcon
-      /> : <Alert message="Not connected to Solana" type="error" showIcon />}
+      /> : <Alert message="Not connected to Helium" type="error" showIcon />}
     </Col>
   );
 }

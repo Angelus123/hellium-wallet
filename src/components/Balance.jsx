@@ -42,7 +42,7 @@ const Balance = () => {
               <Text strong>{`This address has a balance of ◎${balance}`}</Text>
             }
             description={
-              <a href={explorerUrl} target="_blank" rel="noreferrer">View the address on Solana Explorer</a>
+              <a href={explorerUrl} target="_blank" rel="noreferrer">View the address on Helium Explorer</a>
             }
             type="success"
             showIcon
