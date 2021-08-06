@@ -38,6 +38,7 @@ const Account = ({ keypair, setKeypair }) => {
                   <Text>It's accessible (and copyable) at the top right of this page.</Text>
                 </div>
               }
+              //on success
               type="success"
               showIcon
             />

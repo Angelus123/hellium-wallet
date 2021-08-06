@@ -1,4 +1,6 @@
-# Hellium wallet
+
+#  Hellium wallet
+
 This App help people to manage their Hellium wallet by; 
 generating Keypair, 
 Create wallet address
@@ -6,7 +8,7 @@ Sending Transactions
 Receiving Transactions
 Checking User Balance. 
 
-![Home page](https://github.com/Angelus123/TodoApp/blob/Developer/src/Asset/Screenshot_task.png)
+![generate_key_page](https://github.com/Angelus123/TodoApp/blob/Developer/src/Asset/Screenshot_task.png)
 
 ### Technology tools used in this Project
 
@@ -26,8 +28,10 @@ Checking User Balance.
 * Install [Node js](https://nodejs.org/en/)
 * Clone Repo [Hellium wallet](https://github.com/Angelus123/hellium-wallet)
 
+ To move into folder
 
-$ To move into folder
+
+
 ```
 $ cd hellium-wallet
 ```
@@ -41,7 +45,6 @@ To start the server do
 ```
 $ npm run start
 ```
-![Home page](https://github.com/Angelus123)
 
 ###Contact me for More  +250785182823 or Email: izerefaifelix@gmail.com
 ### Author
